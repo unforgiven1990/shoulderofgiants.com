@@ -42,13 +42,23 @@ font-weight:700;
 }
 
 h1{
-font-size: calc(1.7rem );
+font-size: calc(1.9rem );
 }
 
 h2{
 font-size: calc(1.4rem );
 }
+.metainfo{
+font-size: calc(0.8rem );
+}
 
+nav{
+//background-color:#e7e7e7;
+}
+
+.dAwIzq{
+   margin-top: 0px!important;
+}
 
 time{
 font-size:0.8rem;
@@ -65,7 +75,6 @@ margin-top:14px;
 
 .row_index{
 margin:10px;
-background-color: #f6f6f6;
 }
 
 .spy-clickable.spy-active{
@@ -77,7 +86,7 @@ font-size:0.8rem;
 }
 
 #indicator{
-padding-left:10px;
+padding-left:0px;
 }
 
 .nodot{
