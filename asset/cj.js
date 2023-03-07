@@ -1,6 +1,7 @@
 
-$(document).ready(function() {
 
+$(document).ready(function() {
+try{
 var spy = new ScrollSpy()
 var indicator = document.getElementById('indicator')
 spy.Indicator({
@@ -10,6 +11,7 @@ spy.Indicator({
 var spy = new ScrollSpy({
     delay: 10
 })
-
+}catch{
+}
 
 })
